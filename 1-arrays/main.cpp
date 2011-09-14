@@ -5,9 +5,10 @@ using namespace std;
 bool isUniqString(const string& s)
 {
 	 int checker[4] = {0, 0, 0, 0};
-	 for (int i = 0; i < s.length(); ++i)
+	 string::const_iterator i;
+	 for (i = s.begin(); i != s.end(); ++i)
 	 {
-		  int c = (int)s.at(i);
+		  int c = (int)*i;
 		  int index = c / 32;
 		  int pos = 1 << (c % 32);
 		  if (checker[index] & pos)
