@@ -1,0 +1,6 @@
+4. Can you have vector of auto_pointer ? explain your answer.
+
+5. is this code valid:
+auto_pointer<Object> a(new Object());
+auto_pointer<Object> b(new Object());
+a = b;
