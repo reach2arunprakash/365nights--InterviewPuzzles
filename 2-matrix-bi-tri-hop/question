@@ -1,0 +1,2 @@
+Given a matrix which represents 1/0 representing a direct flight between two places in a 2D array, find the number of hops required to reach from one place to another place. In other words, find if it is bi-hop, tri-hop etc.
+
