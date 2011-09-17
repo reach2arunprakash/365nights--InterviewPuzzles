@@ -1,0 +1,5 @@
+given a string, check if this string matches a cyclic patter.
+e.g.
+abcdabcd
+ababab
+aabaab
