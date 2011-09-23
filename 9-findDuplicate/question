@@ -1,0 +1,4 @@
+There is an array of size 50 that is expected to contain all the numbers from 1 to 50
+(every number occuring only once). But there is one number in the array that does not
+satisfy this condition i.e. one number is either duplicate or outside 1 to 50 range. 
+Find the correct number that is missing in the array.. O(n) soln required.
