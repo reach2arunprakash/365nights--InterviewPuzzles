@@ -1,1 +1,1 @@
-Given a list of n elements...every element has a duplicate except one...Find that lone number?;
+Write an algorithm to find the 'next' node of a given node in a binary search tree where each node has a link to its parent.
