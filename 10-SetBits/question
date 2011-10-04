@@ -1,1 +1,1 @@
-given two 32-bit numbers, N and M
+given two 32-bit numbers, N and M, two bit positions, i and j. write a method to set all bits between i and j in N equal to M
