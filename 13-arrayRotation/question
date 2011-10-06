@@ -1,0 +1,1 @@
+Implement a function rotateArray(vector<int> arr, int r) which rotates the array by r places. Eg 1 2 3 4 5 on being rotated by 2 gives 4 5 1 2 3.
