@@ -1,0 +1,5 @@
+Really like the linear solution of this problem. You have an array of 0s and 1s and you want to output all the intervals (i, j) where the number of 0s and numbers of 1s are equal.
+Example
+pos = 0 1 2 3 4 5 6 7 8
+0 1 0 0 1 1 1 1 0
+One interval is (0, 1) because there the number of 0 and 1 are equal. There are many other intervals, find all of them in linear time.

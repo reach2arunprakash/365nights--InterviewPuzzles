@@ -1,0 +1,5 @@
+Remove Duplicate slashes
+
+"/root//foo/bar"=> "/root/foo/bar"
+
+Obviously no extra memory and minimum number of elements moved
