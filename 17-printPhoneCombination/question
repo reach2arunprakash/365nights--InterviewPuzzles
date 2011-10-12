@@ -1,0 +1,6 @@
+Telephone Dir lookup:
+Given mapping: number to letters (just like on the telephone buttons)
+i/p: digit string e.g. "1234"
+1. o/p: all possible letter strings based on the mapping.
+
+2. o/p only those strings that are in a given dictionary. (and length of the dictionary is small.)

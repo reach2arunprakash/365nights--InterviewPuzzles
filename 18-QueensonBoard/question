@@ -1,0 +1,33 @@
+Input:
+The first line contains the number of test cases T. T test cases follow. Each test case contains integers N and M on the first line. The following N lines contain M characters each representing the board. A '#' represents a blocked square and a '.' represents an unblocked square.
+
+Output:
+Output T lines containing the required answer for each test case. As the answers can be really large, output them modulo 1000000007.
+
+Constraints:
+
+1 <= T <= 100
+1 <= N <= 50
+1 <= M <= 5
+
+Sample Input:
+4
+3 3
+...
+...
+...
+3 3
+.#.
+.#.
+...
+2 4
+.#..
+....
+1 1
+#
+
+Sample Output:
+17
+18
+14
+0 
